@@ -1,4 +1,5 @@
-These are the deep mutational scanning (DMS) statistics from Bloom Lab for the changes in ACE2 binding and adult sera escape resulting from each BAL-MP mutation for which data were available. You can find the full datasets at the following Bloom Lab Github repositories. 
+These are the deep mutational scanning (DMS) statistics from Bloom Lab for the changes in ACE2 binding and adult sera escape resulting from each BAL-MP mutation for which data were available. You can find the full datasets at the following Bloom Lab Github repositories.
+
 KP.3.1.1 — https://github.com/dms-vep/SARS-CoV-2_KP.3.1.1_spike_DMS/blob/main/results/summaries/sera_group_averages.csv
 
 XBB.1.5 — https://github.com/dms-vep/SARS-CoV-2_XBB.1.5_spike_DMS/blob/main/results/summaries/summary.csv
